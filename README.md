@@ -7,7 +7,7 @@ Add db_logger in INSTALLED_APPS
 `
 
 My logging settings:
-`
+```
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -32,4 +32,4 @@ LOGGING = {
     },
 }
 
-`
+```
