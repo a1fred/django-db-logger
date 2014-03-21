@@ -2,11 +2,11 @@
 
 * Just add db_logger in INSTALLED_APPS
 
-`
-INSTALLED_APPS += (
-    "db_logger",
-)
-`
+  `
+  INSTALLED_APPS += (
+      "db_logger",
+  )
+  `
 
 * Set LOGGING dict in settings.py,
 
