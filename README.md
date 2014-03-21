@@ -1,6 +1,6 @@
 # INSTALLATION
 
-Just add db_logger in INSTALLED_APPS
+* Just add db_logger in INSTALLED_APPS
 
 `
 INSTALLED_APPS += (
@@ -8,7 +8,7 @@ INSTALLED_APPS += (
 )
 `
 
-Set LOGGING dict in settings.py,
+* Set LOGGING dict in settings.py,
 
 For example, my logging settings:
 ```
