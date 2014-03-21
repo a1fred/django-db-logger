@@ -1,10 +1,12 @@
-Add db_logger in INSTALLED_APPS
+= INSTALLATION =
 
-`
- INSTALLED_APPS += (
+Just add db_logger in INSTALLED_APPS
+
+```
+INSTALLED_APPS += (
     "db_logger",
- )
-`
+)
+```
 
 My logging settings:
 ```
