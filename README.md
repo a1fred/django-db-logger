@@ -2,13 +2,15 @@
 
 Just add db_logger in INSTALLED_APPS
 
-```
+`
 INSTALLED_APPS += (
     "db_logger",
 )
-```
+`
 
-My logging settings:
+Set LOGGING dict in settings.py,
+
+For example, my logging settings:
 ```
 LOGGING = {
     'version': 1,
