@@ -37,4 +37,8 @@
   }
   
   ```
-  
+# USAGE
+
+* See how log entry adding in
+  `http://yourproject.com/admin/db_logger/generallog/`
+* PROFIT
