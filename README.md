@@ -1,4 +1,4 @@
-= INSTALLATION =
+# INSTALLATION
 
 Just add db_logger in INSTALLED_APPS
 
