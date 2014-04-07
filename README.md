@@ -11,6 +11,7 @@
 * Set LOGGING dict in **settings.py**,
   
 For example, my logging settings:
+
 ```python
     LOGGING = {
         'version': 1,
