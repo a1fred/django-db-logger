@@ -1,3 +1,6 @@
 from django.test import TestCase
 
-# Create your tests here.
+
+class DbLoggerTests(TestCase):
+    def test_logentry(self):
+        pass
