@@ -2,7 +2,7 @@ from fabric.api import local
 
 
 def register():
-    local("pip register")
+    local("python setup.py register")
 
 
 def upload():
