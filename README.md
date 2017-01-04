@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/django-indb-logger.svg)](https://badge.fury.io/py/django-indb-logger)
+
 # INSTALLATION
 
 * Add db_logger in **INSTALLED_APPS**
